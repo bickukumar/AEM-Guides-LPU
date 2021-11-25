@@ -1,0 +1,6 @@
+{
+  "mobile.resourceTypes": [
+    "lpu-5294/components/page"
+  ],
+  "README": "Indicate which page resource types should display the mobile emulators."
+}
